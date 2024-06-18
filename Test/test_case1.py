@@ -8,4 +8,4 @@ from Utilities.BaseClass import BaseClass
 class Test_Case1(BaseClass):
 
     def test_openbrowser(self):
-        self.driver.find_element(By.ID,"ra_userName").send_keys("pramila")
+        self.driver.find_element(By.ID,"ra_userName").send_keys("mani")
