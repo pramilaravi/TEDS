@@ -1,3 +1,8 @@
 brach creation and pushing to the master 
 try to create apull request now and merge it with the master
-its chnage frompycharm
+its change from pycharm
+
+
+Commands for usage
+pip install -r requirements.txt
+pytest --html=report.html
